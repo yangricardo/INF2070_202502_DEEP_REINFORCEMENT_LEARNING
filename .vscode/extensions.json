@@ -1,9 +1,15 @@
 {
   "recommendations": [
-    "ms-python.python",
     "ms-python.vscode-python-envs",
     "ms-python.debugpy",
-    "ms-toolsai.jupyter",
-    "tomoki1207.pdf"
+    "tomoki1207.pdf",
+    "donjayamanne.vscode-default-python-kernel",
+    "ms-toolsai.jupyter-hub",
+    "ms-toolsai.jupyter-keymap",
+    "ms-toolsai.jupyter-renderers",
+    "ms-toolsai.vscode-jupyter-cell-tags",
+    "ms-toolsai.vscode-jupyter-slideshow",
+    "ms-toolsai.vscode-jupyter-powertoys",
+    "ms-python.vscode-pylance"
   ]
 }
